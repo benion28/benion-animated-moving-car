@@ -1,0 +1,16 @@
+{
+  "name": "animated-moving-car",
+  "version": "1.0.0",
+  "description": "Benion Animated Moving Car",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/benion-animated-moving-car/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
